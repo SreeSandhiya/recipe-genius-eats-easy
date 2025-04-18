@@ -28,8 +28,8 @@ const Hero = () => {
           </div>
           <div className="md:w-1/2 animate-slide-up flex justify-center">
             <img 
-              src="https://images.unsplash.com/photo-1505935428862-770b6f24f629?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
-              alt="Healthy food ingredients" 
+              src="https://images.unsplash.com/photo-1543352634-a1c51d9f1fa7?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+              alt="Fresh ingredients and healthy food"
               className="rounded-lg shadow-xl max-w-full h-auto"
             />
           </div>

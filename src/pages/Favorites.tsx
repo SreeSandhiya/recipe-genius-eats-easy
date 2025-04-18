@@ -17,7 +17,7 @@ const mockFavorites = [
     cookTime: "30 mins",
     calories: 450,
     tags: ["Mediterranean", "Vegetarian", "High Protein"],
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
   },
   {
     id: 2,
@@ -27,7 +27,7 @@ const mockFavorites = [
     cookTime: "25 mins",
     calories: 520,
     tags: ["Italian", "High Protein", "Gluten-Free"],
-    image: "https://images.unsplash.com/photo-1532550907401-a500c9a57435?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    image: "https://images.unsplash.com/photo-1518492104633-130d0cc84637?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
   },
   {
     id: 3,
@@ -37,7 +37,7 @@ const mockFavorites = [
     cookTime: "25 mins",
     calories: 310,
     tags: ["Breakfast", "Vegan", "High Fiber"],
-    image: "https://images.unsplash.com/photo-1576618148400-f54bed99fcfd?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    image: "https://images.unsplash.com/photo-1484723091739-30a097e8f929?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
   },
   {
     id: 4,
@@ -47,7 +47,7 @@ const mockFavorites = [
     cookTime: "30 mins",
     calories: 380,
     tags: ["Thai", "Dairy-Free", "Spicy"],
-    image: "https://images.unsplash.com/photo-1548943487-a2e4e43b4853?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    image: "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
   }
 ];
 
